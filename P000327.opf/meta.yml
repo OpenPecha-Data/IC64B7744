@@ -1,5 +1,7 @@
 id: P000327
 initial_creation_type: ocr
+created_at: 12/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG3708
   title: མཁྱུད་སྤྱད་སྣ་ཚོགས་ཕྱོགས་བསྡུས་ཙིནྟ་མ་ཎི་
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 236
       base_file: v001.txt
-ebook_metadata:
-  title: མཁྱུད་སྤྱད་སྣ་ཚོགས་ཕྱོགས་བསྡུས་ཙིནྟ་མ་ཎི་
-  author: ''
-  sku: P000327
-  cover: cover.jpg
-  layers:
-  - pagination
